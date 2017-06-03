@@ -1,0 +1,24 @@
+{
+    "name": "rebilly/merchant-category-codes",
+    "description": "A list of merchant category codes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Altman",
+            "email": "adam@rebilly.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mcc\\": ["src"]
+        }
+    },
+    "scripts": {
+        "BuildJson": "./bin/BuildJson.php"
+    }
+}
