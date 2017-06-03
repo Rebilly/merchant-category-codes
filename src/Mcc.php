@@ -9,9 +9,9 @@ namespace Mcc;
 class Mcc
 {
     const ALL = [
-        ['id' => '742', 'description' => 'Veterinary Services'],
-        ['id' => '763', 'description' => 'Agricultural Co-Operatives'],
-        ['id' => '780', 'description' => 'Horticultural Services, Landscaping Services'],
+        ['id' => '0742', 'description' => 'Veterinary Services'],
+        ['id' => '0763', 'description' => 'Agricultural Co-Operatives'],
+        ['id' => '0780', 'description' => 'Horticultural Services, Landscaping Services'],
         ['id' => '1520', 'description' => 'General Contractors-Residential And Commercial'],
         [
             'id' => '1711',
@@ -332,6 +332,7 @@ class Mcc
         ['id' => '3297', 'description' => 'Airlines'],
         ['id' => '3298', 'description' => 'Air Mauritius'],
         ['id' => '3299', 'description' => 'Widero’S Flyveselskap'],
+        ['id' => '3300', 'description' => 'Azul Air'],
         ['id' => '3351', 'description' => 'Affiliated Auto Rental'],
         ['id' => '3352', 'description' => 'American Intl Rent-A-Car'],
         ['id' => '3353', 'description' => 'Brooks Rent-A-Car'],
@@ -834,6 +835,10 @@ class Mcc
             'description' => 'Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail Lounges, Nightclubs And Discotheques',
         ],
         ['id' => '5814', 'description' => 'Fast Food Restaurants'],
+        ['id' => '5815', 'description' => 'Digital Media, Books, Movies, Music'],
+        ['id' => '5816', 'description' => 'Digital Games Digital Goods - Games'],
+        ['id' => '5817', 'description' => 'Digital Applications Digital Goods - Applications (Excludes Games)'],
+        ['id' => '5818', 'description' => 'Digital Goods - Large Digital Goods Merchant'],
         ['id' => '5832', 'description' => 'Antique Shops – Sales, Repairs, And Restoration Services'],
         ['id' => '5912', 'description' => 'Drug Stores And Pharmacies'],
         ['id' => '5921', 'description' => 'Package Stores – Beer, Wine, And Liquor'],
@@ -884,7 +889,7 @@ class Mcc
         ['id' => '5998', 'description' => 'Tent And Awning Shops'],
         ['id' => '5999', 'description' => 'Miscellaneous And Specialty Retail Stores'],
         ['id' => '6010', 'description' => 'Financial Institutions – Manual Cash Disbursements'],
-        ['id' => '6011', 'description' => 'Financial Institutions – Manual Cash Disbursements'],
+        ['id' => '6011', 'description' => 'Financial Institutions – Automated Cash Disbursements'],
         ['id' => '6012', 'description' => 'Financial Institutions – Merchandise And Services'],
         [
             'id' => '6051',
@@ -898,6 +903,7 @@ class Mcc
             'description' => 'Insurance, Not Elsewhere Classified ( No Longer Valid Forfirst Presentment Work)',
         ],
         ['id' => '6513', 'description' => 'Real Estate Agents And Managers - Rentals'],
+        ['id' => '6540', 'description' => 'Non-financial Institutions - Stored Value Card Purchase/Load'],
         [
             'id' => '7011',
             'description' => 'Lodging – Hotels, Motels, Resorts, Central Reservation Services (Not Elsewhere Classified)',
@@ -962,6 +968,9 @@ class Mcc
         ['id' => '7641', 'description' => 'Furniture, Furniture Repair, And Furniture Refinishing'],
         ['id' => '7692', 'description' => 'Welding Repair'],
         ['id' => '7699', 'description' => 'Repair Shops And Related Services –Miscellaneous'],
+        ['id' => '7800', 'description' => 'Gambling - Government-Owned Lotteries'],
+        ['id' => '7801', 'description' => 'Gambling - Government-Licensed On-Line Casinos'],
+        ['id' => '7802', 'description' => 'Gambling - Government-Licensed Horse/Dog racing'],
         ['id' => '7829', 'description' => 'Motion Pictures And Video Tape Production And Distribution'],
         ['id' => '7832', 'description' => 'Motion Picture Theaters'],
         ['id' => '7841', 'description' => 'Video Tape Rental Stores'],
