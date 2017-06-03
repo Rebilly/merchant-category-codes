@@ -1,14 +1,14 @@
 [
     {
-        "id": "742",
+        "id": "0742",
         "description": "Veterinary Services"
     },
     {
-        "id": "763",
+        "id": "0763",
         "description": "Agricultural Co-Operatives"
     },
     {
-        "id": "780",
+        "id": "0780",
         "description": "Horticultural Services, Landscaping Services"
     },
     {
@@ -1254,6 +1254,10 @@
     {
         "id": "3299",
         "description": "Widero\u2019S Flyveselskap"
+    },
+    {
+        "id": "3300",
+        "description": "Azul Air"
     },
     {
         "id": "3351",
@@ -3216,6 +3220,22 @@
         "description": "Fast Food Restaurants"
     },
     {
+        "id": "5815",
+        "description": "Digital Media, Books, Movies, Music"
+    },
+    {
+        "id": "5816",
+        "description": "Digital Games Digital Goods - Games"
+    },
+    {
+        "id": "5817",
+        "description": "Digital Applications Digital Goods - Applications (Excludes Games)"
+    },
+    {
+        "id": "5818",
+        "description": "Digital Goods - Large Digital Goods Merchant"
+    },
+    {
         "id": "5832",
         "description": "Antique Shops \u2013 Sales, Repairs, And Restoration Services"
     },
@@ -3405,7 +3425,7 @@
     },
     {
         "id": "6011",
-        "description": "Financial Institutions \u2013 Manual Cash Disbursements"
+        "description": "Financial Institutions \u2013 Automated Cash Disbursements"
     },
     {
         "id": "6012",
@@ -3434,6 +3454,10 @@
     {
         "id": "6513",
         "description": "Real Estate Agents And Managers - Rentals"
+    },
+    {
+        "id": "6540",
+        "description": "Non-financial Institutions - Stored Value Card Purchase\/Load"
     },
     {
         "id": "7011",
@@ -3654,6 +3678,18 @@
     {
         "id": "7699",
         "description": "Repair Shops And Related Services \u2013Miscellaneous"
+    },
+    {
+        "id": "7800",
+        "description": "Gambling - Government-Owned Lotteries"
+    },
+    {
+        "id": "7801",
+        "description": "Gambling - Government-Licensed On-Line Casinos"
+    },
+    {
+        "id": "7802",
+        "description": "Gambling - Government-Licensed Horse\/Dog racing"
     },
     {
         "id": "7829",

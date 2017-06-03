@@ -7,7 +7,3 @@ Use composer to install the package: `composer require rebilly/merchant-category
 ## Build JSON representation
 
 Run `composer BuildJson` to build the data in `/resources/mcc.json`. 
-
-## TO DO
-
-Add recent additions to codes.
